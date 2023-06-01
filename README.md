@@ -2,14 +2,14 @@
 ## Александар Тркалески, бр. на индекс 216126
 ## Control Flow Graph 
 
-![CFG](https://github.com/TrkaleskiA/SI_2023_lab2_216126/assets/108904399/84089181-6563-4682-8f8c-68f3c8644dba)
+![CFG](images/CFG.png)
 
 ## Цикломатска комплексност
 Цикломатската комплексност ја пресметав како бројот на loops +1, односно региони во Control Flow Graph-от, и добив 11.
 
 ## Every Branch
 
-![EveryBranch](https://github.com/TrkaleskiA/SI_2023_lab2_216126/assets/108904399/be01889c-de81-4180-864e-f8a4f9a67c8d)
+![EveryBranch](images/EveryBranch.png)
 
 ## Тест случаи според критериумот EveryBranch <br/>
 Имам вкупно 5 тест случаи: <br/>
